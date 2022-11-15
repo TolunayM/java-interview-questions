@@ -1,3 +1,5 @@
+// repeated characters in string in order
+
 import java.util.ArrayList;
 import java.util.List;
 
