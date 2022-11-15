@@ -1,3 +1,5 @@
+// biggest number in array contains only positive integers
+
 import java.util.Arrays;
 public class largestNum {
 
