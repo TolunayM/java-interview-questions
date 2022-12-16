@@ -1,3 +1,7 @@
+//Finding prime numbers in range
+//Prime numbers are numbers that have only 2 factors: 1 and themselves.
+
+
 import java.util.Scanner;
 
 public class isPrime {
